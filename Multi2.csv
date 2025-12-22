@@ -1,0 +1,1445 @@
+word,tag
+a cappella,K2
+a priori,N4
+alfabet Braille,Q3
+alfabet Morse'a,Q3
+all inclusive,A1.8+
+alter ego,S2mf/A6.1-
+American dream,X9.2+
+anno domini,T1.3
+C+,Y2
+C++,Y2
+dać radę,X9.2+ Q2.2/S8+
+dawać radę,X9.2+ Q2.2/S8+
+w istocie,A5.2+
+mp3,K3
+na jaw,A10+
+zdać sobie sprawę,X2.5+
+zdawać sobie sprawę,X2.5+
+wyjść na jaw,A10+
+babie lato,W4/T1.3
+być może,A7
+dom publiczny,S3.2/H1c
+drapacz chmur,H1
+en face,C1
+face lifting,B3
+face to face,S1.1.1
+fair play,G2.2+ G2.1+
+fast food,F1
+faux pas,E5-
+femme fatale,A5.1-/S2.1
+fiku miku,Z4
+grand prix,K5.1
+happy end,A5.1+/T2-
+happy hour,I1.3-/T1.3
+ochrona środowiska,W5
+hat trick,K5.1
+heavy metal,K2
+hi-tech,Y2
+hip hop,K5.1
+hokus pokus,Z4
+homo erectus,T1.1.1/S2mf
+homo sapiens,S2mf
+hot dog,F1
+hula hop,O2/K5.1
+in vitro,B3
+ju jitsu,K5.1
+liberum veto,G1.1
+w trakcie,T1.3
+między innymi,Z4
+na czczo,F1-
+na dole,M6
+na górze,M6
+na koniec,T2-
+na odczepnego,A1.3-
+na odwal,A1.3-
+na okrągło,T2++ N6+
+na oścież,A10+
+na oślep,X3.4- A1.3-
+na przemian,A6.3+ A6.1-
+na przykład,Z5
+inwestycja publiczna,I1.1
+na sam koniec,T2-
+na surowo,F1
+na wyrost,N5.2+
+na żywo,L1+ A3+ Q4.3 K2/K3 K1
+nawiasem mówiąc,A1.4
+nomen omen,Z4
+proszę bardzo,Z4
+s’il vous plaît,Z4
+savoir-vivre,S4 P1
+stwardnienie rozsiane,B2-
+śmigus dyngus,K1/T1.3
+tête-à-tête,S1.1.1
+trzęsienie ziemia,W3
+u schyłku,T2-
+u-boot,M4
+w gruncie rzeczy,A5.2+
+w miejscu,M8
+w odróżnieniu,A6.1-
+w okamgnieniu,N3.8+
+w przybliżeniu,A13.4
+w zamian,S1.1.2+
+w zanadrzu,X7+
+w zupełności,A13.2
+walkie-talkie,Q1.3
+wishful thinking,A5.1+/X2.1
+witamina A,O1 B3
+witamina B,O1 B3
+witamina B1,O1 B3
+witamina B12,O1 B3
+witamina B6,O1 B3
+witamina C,O1 B3
+witamina D,O1 B3
+witamina D3,O1 B3
+witamina E,O1 B3
+witamina K,O1 B3
+witamina K2,O1 B3
+wobec tego,Z5
+wte i wewte,M6
+z boku,M6
+z dawien dawna,T1.1.1
+z kretesem,A14
+z naprzeciwka,M6
+z przeciwka,M6
+z rzadka,N6-
+z kolei,Z4 N4
+za młodu,T3-/T1.3
+zgaduj-zgadula,X2.1/A5.2+
+zgodnie z,Z5
+na co dzień,T1.1.2 A6.2+
+z biegiem czasu,T2++
+na ogół,A6.2+ A4.2-
+w międzyczasie,T1.3
+na marginesie,N5+
+w rezultacie,A2.2
+na przekór,Z5
+z czasem,T1.3+
+na dłuższą metę,T1.1.3
+bez wątpienia,A7+
+w żadnym wypadku,Z6
+z jednej strony,Z4
+z drugiej strony,Z4
+w porównaniu z,A6
+w gruncie rzeczy,A5.2+
+z wyjątkiem,A6.1-
+w sumie,A5.2+ N5.1+
+z dnia na dzień,T2++
+w dużej mierze,A13.2
+na dobrą sprawę,Z4
+w razie czego,A1.3+
+na wszelki wypadek,A1.3+
+na własną rękę,S5-
+do pewnego stopnia,A13.5
+w pewnym sensie,A13.4
+w ramach,Z5
+w świetle prawa,G1.1
+w istocie rzeczy,A5.2+
+na własne oczy,X3.4
+w takim razie,Z4
+w takim wypadku,Z4
+na dany moment,T1.1.2
+w pełnym tego słowa znaczeniu,A13.2
+z tego względu,A2.2
+z całego serca,S1.2.4+
+na bieżąco,T1.1.2
+w żadnym stopniu,Z6
+w dalszym ciągu,T2++ Z4
+po części,A13.6
+w razie potrzeby,Z7/S6+
+na każdym kroku,M6/N5.1+
+na własne życzenie,X6+
+na całe szczęście,A1.4+ A5.1+ E4.1+
+na szczęście,A1.4+ A5.1+ E4.1+
+Uniwersytet Jagielloński,P1
+Uniwersytet Warszawski,P1
+w niewielkim stopniu,A13.6
+z lekka,A13.6
+do granic możliwości,A13.2
+w obecnym stanie rzeczy,T1.1.2/O4.1
+na własną prośbę,X6+
+w związku z powyższym,A2.2
+w związku z poniższym,A2.2
+na chwilę obecną,T1.1.2
+po raz enty,N4+
+w miarę możliwości,A13.3+++
+z ręką na sercu,A5.2+
+na domiar złego,A5.1-
+na swój sposób,A13.4
+z mocy prawa,G1.1
+w świetle wydarzeń,A2.2
+w żadnym razie,Z6
+z roku na rok,T2++
+w stanie spoczynku,I3.1-
+pod tym względem,A2.2
+w zasadzie,A5.2+
+co do joty,A13.2
+bez liku,N5+
+bez dwóch zdań,A7+++
+bez ogródek,A5.2+
+co niemiara,N5+
+jak ulał,A1.2+
+na opak,A6.1-
+nie do wiary,A5.1+++ A5.2-/A8
+nie ma sprawy,Z4
+nie na miejscu,A1.2-
+nie z tej ziemi,A6.2-
+od biedy,A5.1
+nie w smak,E2-
+od rzeczy,S1.2.6-
+po trosze,N5- A13.6
+przed chwilą,T1.1.1
+przed czasem,T4+
+przy okazji,Z4
+przy odrobinie szczęścia,A1.4
+raz po raz,N6
+nie do końca,Z6
+rzecz w tym,X4.1
+sam z siebie,X7+/S6-
+sama z siebie,X7+/S6-
+w całości,N5.1+
+w ciemno,X2.2-
+w danej chwili,T1.1.2
+w mgnieniu oka,N3.8+
+w ostateczności,N4
+w związku z tym,A2.2
+co rusz,N6+
+jak by nie było,Z4
+jak gdyby nigdy nic,Z4
+jakim cudem,A1.4+
+jakimś cudem,A1.4+
+na wyciągnięcie ręki,A3+ A9+
+z reguły,A6.2+
+z zasady,A6.2+
+w końcu,N4
+w ogóle,N5.1+
+pod każdym względem,A2.2
+w porządku,A5.1+
+do widzenia,Z4
+dzień dobry,Z4
+na bakier,G2.1-
+z grubsza,A13.4
+na gorąco,T1.1.2
+"ni stąd, ni zowąd ",X2.6-
+co do zasady,A6.2+
+od czasu do czasu,N6
+chili con carne,F1
+czarna dziura,W1
+droga mleczna,W1
+prawo jazdy,M3/Q1.2
+wolny czas,K1/T1.3
+w poprzek,M6
+rok świetlny,N3.3
+koń mechaniczny,M3/N3.1
+Carpe diem,Z5
+Memento mori,Z5
+w ryzach,S7.1+
+co więcej,Z5
+In vino veritas,Z5
+Lex retro non agit,G1.1
+"Cogito, ergo sum",Z5
+Ad personam,Q2.1
+Nota bene,Z5
+De facto,Z5
+De iure,Z5
+Status quo,A3/T1.3
+Mea culpa,Z5
+Modus operandi,X4.2
+Persona non grata,X7-/S2mf
+Vice versa,S1.1.2
+Panta rhei,Z5
+Sic!,Z5
+Rzeka Świętego Wawrzyńca,Z2
+São Francisco,Z2
+Mercedes-Benz,Z3/M3
+Land Rover,Z3/M3
+Alfa Romeo,Z3/M3
+Rolls-Royce,Z3/M3
+Great Wall,Z3/M3
+Bang & Olufsen,Z3c
+TP-Link,Z3c
+Western Digital,Z3c
+Harman Kardon,Z3c
+Burger Kinf,Z3c
+McDonald's,Z3c
+Delikatesy Centrum,Z3c
+Super-Pharm,Z3c
+Media Markt,Z3c
+RTV Euro AGD,Z3c
+Leroy Merlin,Z3c
+Circle K,Z3c
+League of Legends,Z3c/Y2
+Call of Duty,Z3c/Y2
+World of Warcraft,Z3c/Y2
+Rocket League,Z3c/Y2
+Among Us,Z3c/Y2
+Kwas acetylosalicylowy,B3
+No-Spa,B3
+Czosnek Fix,B3
+Magne B6,B3
+Lactulosum (Lactuloza),B3
+Calcium Sandoz,B3
+e-book,Q4.1
+New Yorker,B4 Z3c
+TK Maxx,B4 Z3c
+Big Star,B4 Z3c
+Levi's,B4 Z3c
+Tommy Hilfiger,B4 Z3c
+Calvin Klein,B4 Z3c
+Under Armour,B4 Z3c
+New Balance,B4 Z3c
+Hugo Boss,B4 Z3c
+Louis Vuitton,B4 Z3c
+Lay's,Z3c
+Hellmann's,Z3c
+Dr Oetker,Z3c
+Kellogg's,Z3c
+Kit Kat,Z3c
+Milky Way,Z3c
+Tic Tac,Z3c
+Coca Cola,Z3c
+Red Bull,Z3c
+Stella Artois,Z3c
+L'Oreal,Z3c
+Max Factor,Z3c
+Urban Decay,Z3c
+Estee Lauder,Z3c
+Yves Saint Laurent,Z3c
+Tom Ford,Z3c
+Charlotte Tilbury,Z3c
+Fenty Beauty,Z3c
+Rare Beauty,Z3c
+The Ordinary,Z3c
+La Roche Posay,Z3c
+Head & Shoulders,Z3c
+Herbal Essences,Z3c
+Paul Mitchell,Z3c
+sztuczna inteligencja,Y2
+The Beatles,Z3c
+The Rolling Stones,Z3c
+Led Zeppelin,Z3c
+Pink Floyd,Z3c
+The Who,Z3c
+Deep Purple,Z3c
+Black Sabbath,Z3c
+Iron Maiden,Z3c
+Guns N' Roses,Z3c
+Pearl Jam,Z3c
+Red Hot Chili Peppers,Z3c
+The Cure,Z3c
+Depeche Mode,Z3c
+New Order,Z3c
+Joy Division,Z3c
+The Smiths,Z3c
+Arctic Monkeys,Z3c
+The Strokes,Z3c
+The White Stripes,Z3c
+Kings of Leon,Z3c
+Foo Fighters,Z3c
+Green Day,Z3c
+Blink-182,Z3c
+Linkin Park,Z3c
+System of a Down,Z3c
+Rage Against the Machine,Z3c
+Nine Inch Nails,Z3c
+Marilyn Manson,Z1mf
+Limp Bizkit,Z3c
+50 Cent,Z1mf
+Jay-Z,Z1mf
+Kanye West,Z1mf
+Kendrick Lamar,Z1mf
+Travis Scott,Z1mf
+Post Malone,Z3c
+Billie Eilish,Z1mf
+Ariana Grande,Z1mf
+Taylor Swift,Z1mf
+Ed Sheeran,Z1mf
+Bruno Mars,Z1mf
+The Weeknd,Z3c
+Dua Lipa,Z1mf
+Lady Gaga,Z1mf
+Katy Perry,Z1mf
+Michael Jackson,Z1mf
+David Bowie,Z1mf
+Elvis Presley,Z1mf
+The Eagles,Z3c
+Fleetwood Mac,Z3c
+REO Speedwagon,Z3c
+Lady Pank,Z3c
+Budka Suflera,Z3c
+Dawid Podsiadło,Z1mf
+Robert Lewandowski,Z1mf
+Iga Świątek,Z1mf
+Jakub Błaszczykowski,Z1mf
+Kamil Stoch,Z1mf
+Adam Małysz,Z1mf
+Agnieszka Radwańska,Z1mf
+Mariusz Pudzianowski,Z1mf
+Krzysztof Piątek,Z1mf
+Piotr Żyła,Z1mf
+Dawid Kubacki,Z1mf
+Justyna Kowalczyk,Z1mf
+Anita Włodarczyk,Z1mf
+Paweł Fajdek,Z1mf
+Tomasz Majewski,Z1mf
+Robert Kubica,Z1mf
+Karol Wojtyła,Z1mf
+Lech Wałęsa,Z1mf
+Donald Tusk,Z1mf
+Jarosław Kaczyński,Z1mf
+Andrzej Duda,Z1mf
+Mateusz Morawiecki,Z1mf
+Jerzy Owsiak,Z1mf
+Krzysztof Krawczyk,Z1mf
+Maryla Rodowicz,Z1mf
+Edyta Górniak,Z1mf
+Michał Wiśniewski,Z1mf
+Dawid Podsiadło,Z1mf
+Taco Hemingway,Z1mf
+Viki Gabor,Z1mf
+Roksana Węgiel,Z1mf
+Julia Wieniawa,Z1mf
+Maciej Musiał,Z1mf
+Tomasz Kot,Z1mf
+Robert Więckiewicz,Z1mf
+Borys Szyc,Z1mf
+Kasia Smutniak,Z1mf
+Agata Buzek,Z1mf
+Magdalena Cielecka,Z1mf
+Elon Musk,Z1mf
+Jeff Bezos,Z1mf
+Bill Gates,Z1mf
+Mark Zuckerberg,Z1mf
+Warren Buffett,Z1mf
+Donald Trump,Z1mf
+Joe Biden,Z1mf
+Xi Jinping,Z1mf
+Emmanuel Macron,Z1mf
+Angela Merkel,Z1mf
+Boris Johnson,Z1mf
+LeBron James,Z1mf
+Michael Jordan,Z1mf
+Tom Brady,Z1mf
+Serena Williams,Z1mf
+Roger Federer,Z1mf
+Rafael Nadal,Z1mf
+Novak Djokovic,Z1mf
+Lewis Hamilton,Z1mf
+Max Verstappen,Z1mf
+Usain Bolt,Z1mf
+Michael Phelps,Z1mf
+Floyd Mayweather,Z1mf
+Conor McGregor,Z1mf
+Tiger Woods,Z1mf
+Leonardo DiCaprio,Z1mf
+Brad Pitt,Z1mf
+Tom Cruise,Z1mf
+Will Smith,Z1mf
+Dwayne Johnson,Z1mf
+Robert Downey Jr,Z1mf
+Angelina Jolie,Z1mf
+Jennifer Lawrence,Z1mf
+Scarlett Johansson,Z1mf
+Emma Stone,Z1mf
+Ryan Reynolds,Z1mf
+Chris Hemsworth,Z1mf
+Chris Evans,Z1mf
+Mark Ruffalo,Z1mf
+Johnny Depp,Z1mf
+Keanu Reeves,Z1mf
+Morgan Freeman,Z1mf
+Denzel Washington,Z1mf
+Samuel L Jackson,Z1mf
+Harrison Ford,Z1mf
+Al Pacino,Z1mf
+Robert De Niro,Z1mf
+Meryl Streep,Z1mf
+Sandra Bullock,Z1mf
+Julia Roberts,Z1mf
+Oprah Winfrey,Z1mf
+Ellen DeGeneres,Z1mf
+Jimmy Fallon,Z1mf
+Stephen Colbert,Z1mf
+Conan O'Brien,Z1mf
+David Letterman,Z1mf
+Jay Leno,Z1mf
+Taylor Swift,Z1mf
+Ariana Grande,Z1mf
+Billie Eilish,Z1mf
+Justin Bieber,Z1mf
+Selena Gomez,Z1mf
+Dua Lipa,Z1mf
+Ed Sheeran,Z1mf
+Bruno Mars,Z1mf
+The Weeknd,Z1mf
+Kanye West,Z1mf
+Jay-Z,Z1mf
+Lady Gaga,Z1mf
+Katy Perry,Z1mf
+Britney Spears,Z1mf
+Christina Aguilera,Z1mf
+Mariah Carey,Z1mf
+Whitney Houston,Z1mf
+Michael Jackson,Z1mf
+Elvis Presley,Z1mf
+Bob Dylan,Z1mf
+Paul McCartney,Z1mf
+Mick Jagger,Z1mf
+Freddie Mercury,Z1mf
+John Lennon,Z1mf
+David Bowie,Z1mf
+Elton John,Z1mf
+Amy Winehouse,Z1mf
+Janis Joplin,Z1mf
+Tina Turner,Z1mf
+Aretha Franklin,Z1mf
+Stevie Wonder,Z1mf
+Ray Charles,Z1mf
+B.B. King,Z1mf
+Eric Clapton,Z1mf
+Jimi Hendrix,Z1mf
+Kurt Cobain,Z1mf
+John Mayer,Z1mf
+Axl Rose,Z1mf
+Ozzy Osbourne,Z1mf
+Iron Maiden,Z3c
+Black Sabbath,Z3c
+Led Zeppelin,Z3c
+The Beatles,Z3c
+The Rolling Stones,Z3c
+Pink Floyd,Z3c
+Foo Fighters,Z3c
+Green Day,Z3c
+Pearl Jam,Z3c
+Red Hot Chili Peppers,Z3c
+Linkin Park,Z3c
+Snoop Dogg,Z1mf
+Tupac Shakur,Z1mf
+Notorious B.I.G.,Z1mf
+50 Cent,Z1mf
+Kendrick Lamar,Z1mf
+Travis Scott,Z1mf
+Post Malone,Z1mf
+Lil Wayne,Z1mf
+Nicki Minaj,Z1mf
+Cardi B,Z1mf
+Megan Thee Stallion,Z1mf
+Doja Cat,Z1mf
+rzecz jasna,A7+
+przed naszą erą,T1.1.1
+°C,O4.6
+°F,O4.6
+p.n.e,T1.1.1
+n.e,T1.1.2
+H&M,B4 Z3c
+Pull&Bear,B4 Z3c
+C&A,B4 Z3c
+F&F,B4 Z3c
+Dolce&Gabbana,B4 Z3c
+Bielsko-Biała,Z2
+Zielona Góra,Z2
+Ruda Śląska,Z2
+Gorzów Wielkopolski,Z2
+Dąbrowa Górnicza,Z2
+Jastrzębie-Zdrój,Z2
+Nowy Sącz,Z2
+Jelenia Góra,Z2
+Piotrków Trybunalski,Z2
+Ostrów Wielkopolski,Z2
+Stalowa Wola,Z2
+Siemianowice Śląskie,Z2
+Ostrowiec Świętokrzyski,Z2
+Tomaszów Mazowiecki,Z2
+Biała Podlaska,Z2
+bialski,Z2
+Piekary Śląskie,Z2
+Tarnowskie Góry,Z2
+Kędzierzyn-Koźle,Z2
+kędzierzyńsko-kozielski,Z2
+Nowa Sól,Z2
+dolny śląsk,Z2
+kujawsko-pomorskie,Z2
+warmińsko-mazurskie,Z2
+Antigua i Barbuda,Z2
+Arabia Saudyjska,Z2
+Bośnia i Hercegowina,Z2
+No-Spa,B3
+Burkina Faso,Z2
+Demokratyczna Republika Konga,Z2
+Gwinea Bissau,Z2
+Gwinea Równikowa,Z2
+Korea Północna,Z2
+Korea Południowa,Z2
+Macedonia Północna,Z2
+Nowa Zelandia,Z2
+Papua-Nowa Gwinea,Z2
+Republika Południowej Afryki,Z2
+Republika Środkowoafrykańska,Z2
+Saint Kitts i Nevis,Z2
+Saint Lucia,Z2
+Saint Vincent i Grenadyny,Z2
+San Marino,Z2
+Sierra Leone,Z2
+Sri Lanka,Z2
+Stany Zjednoczone,Z2
+Sudan Południowy,Z2
+Timor Wschodni,Z2
+Trynidad i Tobago,Z2
+Wybrzeże Kości Słoniowej,Z2
+Wyspy Marshalla,Z2
+Wyspy Salomona,Z2
+Wyspy Świętego Tomasza i Książęca,Z2
+Zjednoczone Emiraty Arabskie,Z2
+New Hampshire,Z2
+New Jersey,Z2
+Nowy Meksyk,Z2
+Nowy Jork,Z2
+Karolina Północna,Z2
+Dakota Północna,Z2
+Rhode Island,Z2
+Karolina Południowa,Z2
+Dakota Południowa,Z2
+Wirginia Zachodnia,Z2
+Cluj-Napoca,Z2
+Czarna Hańcza,Z2 Z3
+Nowy Jork,Z2
+Los Angeles,Z2
+San Francisco,Z2
+Hong Kong,Z2
+Rio de Janeiro,Z2
+Buenos Aires,Z2
+Kuala Lumpur,Z2
+Miami Beach,Z2
+Las Vegas,Z2
+Buenos Aires,Z2
+San Diego,Z2
+Las Palmas,Z2
+Sankt Petersburg,Z2
+Kuala Lumpur,Z2
+Buenos Aires,Z2
+Nowy Orlean,Z2
+Abu Dhabi,Z2
+Santiago de Chile,Z2
+Buenos Aires,Z2
+Kędzierzyn-Koźle,Z2
+Los Angeles,Z2
+Nowy Jork,Z2
+San Francisco,Z2
+Sao Paulo,Z2
+Ad-Dammam,Z2
+Addis Abeba,Z2
+Ho Chi Minh,Z2
+Los Angeles,Z2
+Nowy Jork,Z2
+Phnom Penh,Z2
+San Diego,Z2
+San Francisco,Z2
+St. Louis,Z2
+Tel Awiw,Z2
+Ułan Bator,Z2
+Belo Horizonte,Z2
+Buenos Aires,Z2
+Ho Chi Minh,Z2
+Kansas City,Z2
+Kuala Lumpur,Z2
+Las Palmas,Z2
+Los Angeles,Z2
+New Orleans,Z2
+Nowy Jork,Z2
+Phnom Penh,Z2
+San Diego,Z2
+San Francisco,Z2
+Sao Paulo,Z2
+St. Louis,Z2
+Tel Awiw,Z2
+Ułan Bator,Z2
+Ad-Dammam,Z2
+Belo Horizonte,Z2
+Buenos Aires,Z2
+Ho Chi Minh,Z2
+Kansas City,Z2
+Kuala Lumpur,Z2
+Las Palmas,Z2
+Los Angeles,Z2
+New Orleans,Z2
+Nowy Jork,Z2
+Phnom Penh,Z2
+San Diego,Z2
+e-mail,Q1.3
+San Francisco,Z2
+São Paulo,Z2
+St. Louis,Z2
+Tel Awiw,Z2
+Ułan Bator,Z2
+Badenia-Wirtembergia,Z2
+Dolna Saksonia,Z2
+Meklemburgia-Pomorze Przednie,Z2
+Nadrenia Północna-Westfalia,Z2
+Nadrenia-Palatynat,Z2
+Saksonia-Anhalt,Z2
+Szlezwik-Holsztyn,Z2
+Dolina Aosty,Z2
+Emilia-Romania,Z2
+Friuli-Wenecja Julijska,Z2
+Trydent-Górna Adyga,Z2
+Wenecja Euganejska,Z2
+Owernia-Rodan-Alpy,Z2
+Burgundia-Franche-Comté,Z2
+Centrum-Dolina Loary,Z2
+Grand Est,Z2
+Hauts-de-France,Z2
+Île-de-France,Z2
+Nowa Akwitania,Z2
+Prowansja-Alpy-Lazurowe Wybrzeże,Z2
+Kraj Loary,Z2
+Gujana Francuska,Z2
+Mount Everest,Z2
+Cho Oyu,Z2
+Nanga Parbat,Z2
+Gaszerbrum I,Z2
+Broad Peak,Z2
+Gaszerbrum II,Z2
+Gyachung Kang,Z2
+Annapurna II,Z2
+Distaghil Sar,Z2
+Ngadi Chuli,Z2
+Góry Skaliste,Z2
+Góry Dynarskie,Z2
+Góry Świętokrzyskie,Z2
+Góry Smocze,Z2
+Tien-szan,Z2
+Góry Dynarskie,Z2
+Góry Annamskie,Z2
+Góry Czerskiego,Z2
+Góry Czerskiego,Z2
+Góry Czerskiego,Z2
+Góry Harz,Z2
+Góry Iberyjskie,Z2
+Góry Jablonowe,Z2
+Góry Kambryjskie,Z2
+Góry Kazachskie,Z2
+Góry Kwenluń,Z2
+Góry Masyw Centralny,Z2
+Góry Przylądkowe,Z2
+Góry Skandynawskie,Z2
+Góry Stanowe,Z2
+Góry Wierchojańskie,Z2
+Góry Wogezy,Z2
+Góry Zagros,Z2
+Syr-daria,Z2
+Rzeka Świętego Wawrzyńca,Z2
+São Francisco,Z2
+Zespół Downa,B2-
+rzucić rękawicę,S7.3+
+działać na rzecz,A1.1.1
+pewien siebie,E6+
+piłka nożna,K5.1
+szkolnictwo zawodowe,P1
+achalazja przełyku,B2-
+alergia kontaktowa,B2-
+alergia na białko mleka,B2-
+alergia na pyłki roślin,B2-
+katar sienny,B2-
+alergia pokarmowa,B2-
+alergia skórna u dzieci,B2-
+alergiczne zapalenie spojówek,B2-
+leniwe oko,B2-
+anomalia ebsteina,B2-
+arytmia serca,B2-
+astma wysiłkowa,B2-
+atopowe zapalenie skóry,B2-
+aura migrenowa,B2-
+autyzm atypowy,B2-
+bakteryjne zakażenie pochwy,B2-
+bezdech senny,B2-
+biegunka podróżnych,B2-
+biegunka u dzieci,B2-
+błonica skóry,B2-
+bóle głowy w chorobach oczu,B2-
+ból brzucha,B2-
+ból dziąseł,B2-
+ból gardła,B2-
+ból jajnika,B2-
+ból karku,B2-
+ból kolan,B2-
+ból kości,B2-
+ból kości ogonowej,B2-
+ból mięśni,B2-
+ból nerek,B2-
+ból nogi,B2-
+ból piersi,B2-
+ból pleców,B2-
+ból pod kolanem,B2-
+ból podbrzusza,B2-
+ból sromu,B2-
+ból stawów,B2-
+ból ucha,B2-
+ból w klatce piersiowej,B2-
+ból w pachwinie,B2-
+ból z tyłu głowy,B2-
+ból zęba,B2-
+bóle głowy,B2-
+bóle głowy pochodzenia naczyniowego,B2-
+bóle kończyn,B2-
+bóle kręgosłupa,B2-
+bóle obręczy barkowej,B2-
+bóle w nadbrzuszu,B2-
+bóle w okolicy serca,B2-
+chłoniak anaplastyczny,B2-
+chłoniak hodgkina,B2-
+chłoniaki skóry,B2-
+chondromalacja rzepki,B2-
+choroba addisona,B2-
+choroba alzheimera,B2-
+choroba autoimmunologiczna,B2-
+choroba baastrupa,B2-
+choroba bostońska,B2-
+choroba bowena,B2-
+choroba buergera,B2-
+choroba cushinga,B2-
+choroba dariera,B2-
+choroba de quervaina,B2-
+choroba duhringa,B2-
+choroba gravesa-basedowa,B2-
+choroba hashimoto,B2-
+choroba hemolityczna noworodków,B2-
+choroba huntingtona,B2-
+choroba kociego pazura,B2-
+choroba krabbego,B2-
+choroba leśniowskiego-crohna,B2-
+choroba lokomocyjna,B2-
+choroba meniere'a,B2-
+choroba osgood schlattera,B2-
+choroba parkinsona,B2-
+choroba popromienna,B2-
+choroba schönleina-henocha,B2-
+choroba von willebranda,B2-
+choroba wieńcowa,B2-
+choroby kręgosłupa,B2-
+choroby nadnerczy,B2-
+choroby owłosionej skóry głowy,B2-
+choroby płuc,B2-
+choroby zwyrodnieniowe stawów,B2-
+cukrzyca ciążowa,B2-
+cukrzyca typu 1,B2-
+cukrzyca typu 2,B2-
+czerniak oka,B2-
+czerniak złośliwy sromu,B2-
+czerwienica prawdziwa,B2-
+czerwonka bakteryjna,B2-
+czyrak gromadny,B2-
+czyrak ucha,B2-
+demencja starcza,B2-
+demineralizacja kości,B2-
+depresja endogenna,B2-
+depresja maskowana,B2-
+depresja młodzieńcza,B2-
+depresja poporodowa,B2-
+depresja u seniora,B2-
+dermatopatia cukrzycowa,B2-
+drożdżyca skóry,B2-
+dur brzuszny,B2-
+dusznica bolesna,B2-
+zespół niezdarnego dziecka,B2-
+erytrodermia łuszczycowa,B2-
+fobia społeczna,B2-
+glejak mózgu,B2-
+gorączka krwotoczna ebola,B2-
+gorączka plamista gór skalistych,B2-
+gorączka powrotna,B2-
+dur powrotny,B2-
+gorączka reumatyczna,B2-
+gorączki krwotoczne,B2-
+gradówka na oku,B2-
+gronkowiec złocisty,B2-
+gruczolak łojowy,B2-
+gruźlicze zapalenie węzłów chłonnych,B2-
+gruźlica kostno-stawowa,B2-
+gruźlica pierwotna,B2-
+gruźlica popierwotna,B2-
+gruźlica prosówkowa,B2-
+gruźlica układu moczowego,B2-
+grzybica drobnozarodnikowa,B2-
+grzybica goleni,B2-
+grzybica jamy ustnej,B2-
+grzybica pachwin,B2-
+grzybica paznokci,B2-
+grzybica penisa,B2-
+grzybica pochwy,B2-
+grzybica potnicowa stóp,B2-
+grzybica przełyku,B2-
+grzybica skóry,B2-
+grzybica strzygąca,B2-
+grzybica woszczynowa,B2-
+grzybice narządowe,B2-
+guz chromochłonny nadnerczy,B2-
+guz olbrzymiokomórkowy pochewki ścięgna,B2-
+guz prolaktynowy,B2-
+guz wilmsa,B2-
+guzkowe zapalenie powięzi,B2-
+guzkowe zapalenie tętnic,B2-
+paluch koślawy,B2-
+hemofilia a,B2-
+hemofilia b,B2-
+ludzki wirus brodawczaka,B2-
+inwazyjna choroba meningokokowa,B2-
+jałowe martwice kości,B2-
+jaskra wtórna,B2-
+język geograficzny,B2-
+kamica ślinianki,B2-
+kamica układu moczowego,B2-
+kamica żółciowa,B2-
+kamienie nerkowe,B2-
+kardiomiopatia przerostowa,B2-
+kardiomiopatia restrykcyjna,B2-
+kardiomiopatia rozstrzeniowa,B2-
+karłowatość przysadkowa,B2-
+kiła nabyta,B2-
+kiła wrodzona,B2-
+klasterowy ból głowy,B2-
+kleszczowe zapalenie mózgu,B2-
+kłębuszkowe zapalenie nerek,B2-
+kłykciny kończyste,B2-
+koliste zapalenie żołędzi,B2-
+kolka jelitowa,B2-
+kolka nerkowa,B2-
+kręcz szyi,B2-
+krwiak śródczaszkowy,B2-
+kurza ślepota,B2-
+kurzajki (brodawki zwykłe),B2-
+kwasica ketonowa,B2-
+lęk separacyjny,B2-
+liszaj czerwony płaski,B2-
+liszaj płaski,B2-
+liszaj twardzinowy,B2-
+liszaj złocisty,B2-
+łojotokowe zapalenie skóry,B2-
+łokieć golfisty,B2-
+łokieć tenisisty,B2-
+łupież pstry,B2-
+łupież różowy giberta,B2-
+łuszczyca paznokci,B2-
+łuszczycowe zapalenie stawów,B2-
+łysienie androgenowe,B2-
+łysienie łojotokowe,B2-
+łysienie plackowate,B2-
+malformacja naczyniowa,B2-
+małpia ospa,B2-
+marskość wątroby,B2-
+martwicze zapalenie jelit,B2-
+miażdżyca tętnic,B2-
+mięczak zakaźny,B2-
+mięsak ewinga,B2-
+mięsak kaposiego,B2-
+mięśniaki macicy,B2-
+migotanie przedsionków,B2-
+moczówka prosta,B2-
+mononukleoza zakaźna,B2-
+mózgowe porażenie dziecięce,B2-
+mutyzm wybiórczy,B2-
+naczyniak wątroby,B2-
+nadciśnienie płucne,B2-
+nadciśnienie tętnicze,B2-
+nadciśnienie tętnicze u dzieci,B2-
+nadczynność przytarczyc,B2-
+nadczynność tarczycy,B2-
+nadmierne owłosienie,B2-
+nadmierne pragnienie,B2-
+nadmierne wypadanie włosów,B2-
+nadpłytkowość samoistna,B2-
+nadpłytkowość wtórna,B2-
+nadwaga i otyłość,B2-
+nadżerka żołądka,B2-
+nerwica lękowa,B2-
+nerwica natręctw,B2-
+nerwica serca,B2-
+neuralgia nerwu trójdzielnego,B2-
+niedociśnienie tętnicze,B2-
+niedoczynność kory nadnerczy,B2-
+niedoczynność przytarczyc,B2-
+nedoczynność tarczycy,B2-
+niedomykalność zastawki aortalnej,B2-
+niedomykalność zastawki dwudzielnej,B2-
+niedomykalność zastawki mitralnej,B2-
+niedomykalność zastawki trójdzielnej,B2-
+niedrożność jelit,B2-
+niedrożność nosa,B2-
+"niemoc płciowa, impotencja",B2-
+nietolerancja laktozy,B2-
+niewydolność krążenia,B2-
+niewydolność nerek,B2-
+niewydolność serca,B2-
+nieżyt nosa,B2-
+nowotwory jamy ustnej,B2-
+nowotwory mózgu,B2-
+nowotwory tkanek miękkich,B2-
+nowotwór kości,B2-
+nowotwór wątroby,B2-
+objaw dennie-morgana,B2-
+objaw raynauda,B2-
+"obojnactwo, hermafrodytyzm",B2-
+obrzęk limfatyczny,B2-
+obrzęk naczynioruchowy,B2-
+obrzęk żylny,B2-
+obrzęki alergiczne,B2-
+oczopląs fizjologiczny,B2-
+odma opłucnowa,B2-
+odmiedniczkowe zapalenie nerek,B2-
+odoskrzelowe zapalenie płuc,B2-
+odwarstwienie siatkówki,B2-
+olbrzymiokomórkowe zapalenie tętnic,B2-
+osobowość borderline,B2-
+ospa prawdziwa,B2-
+ospa wietrzna,B2-
+ostra biegunka,B2-
+ostra niewydolność serca,B2-
+ostre niedokrwienie kończyn,B2-
+ostre niedokrwienie kończyn dolnych,B2-
+ostre zapalenie trzustki,B2-
+ostre zapalenie ucha środkowego,B2-
+ostre zapalenie wyrostka robaczkowego,B2-
+ostroga piętowa,B2-
+osutki polekowe,B2-
+owrzodzenie rogówki,B2-
+oziębłość płciowa,B2-
+palce młotkowate,B2-
+palce pałeczkowate,B2-
+paraliż senny,B2-
+zespół pocovidowy u dzieci,B2-
+płatowe zapalenie płuc,B2-
+płodowy zespół alkoholowy,B2-
+polip szyjki macicy,B2-
+polipy jelita grubego,B2-
+polipy macicy,B2-
+polipy nosa,B2-
+polipy przewodu pokarmowego,B2-
+"polucja, zmazy nocne",B2-
+porażenie nerwu twarzowego,B2-
+posocznica paciorkowcowa,B2-
+powiększona śledziona,B2-
+próchnica zębów,B2-
+przedwczesny wytrysk,B2-
+przełyk barretta,B2-
+przeprost kolana,B2-
+przepuklina brzuszna,B2-
+przepuklina kręgosłupa,B2-
+przepuklina pachwinowa,B2-
+przepuklina pępkowa,B2-
+przepuklina rozworu przełykowego,B2-
+przetoka odbytu,B2-
+przewlekła białaczka limfocytowa,B2-
+przewlekła biegunka,B2-
+przewlekła choroba ziarniniakowa,B2-
+przewlekła niewydolność nerek,B2-
+przewlekła niewydolność serca,B2-
+przewlekła obturacyjna choroba płuc,B2-
+przewlekłe niedokrwienie kończyn dolnych,B2-
+przewlekłe zapalenie trzustki,B2-
+przewlekłe zapalenie ucha środkowęgo,B2-
+przykurcz dupuytrena,B2-
+ptasia grypa,B2-
+pylica płuc,B2-
+rak gardła,B2-
+rak jajnika,B2-
+rak jądra,B2-
+rak jelita grubego,B2-
+rak kory nadnerczy,B2-
+rak krtani,B2-
+rak nerki,B2-
+rak odbytnicy,B2-
+rak pęcherza moczowego,B2-
+rak piersi,B2-
+rak płuc,B2-
+rak pochwy,B2-
+rak prącia,B2-
+rak prostaty,B2-
+rak przełyku,B2-
+rak skóry,B2-
+rak sromu,B2-
+rak sutka,B2-
+rak szyjki macicy,B2-
+rak trzonu macicy,B2-
+rak trzustki,B2-
+rak wargi dolnej,B2-
+rak wątrobowokomórkowy,B2-
+rak żołądka,B2-
+rdzeniowy zanik mięśni,B2-
+refluks żołądka,B2-
+refluks żołądkowo-przełykowy,B2-
+retinopatia cukrzycowa,B2-
+reumatoidalne zapalenie stawów,B2-
+rogowacenie okołomieszkowe,B2-
+ropień płuca,B2-
+rozedma płuc,B2-
+rozlane zapalenie otrzewnej,B2-
+rozstrzenie oskrzeli,B2-
+rozwarstwienie aorty,B2-
+rumień guzowaty,B2-
+rumień nagły,B2-
+rumień wędrujący,B2-
+rumień wielopostaciowy,B2-
+rumień zakaźny,B2-
+rwa kulszowa,B2-
+rzekomobłoniaste zapalenie jelit,B2-
+samoistna plamica małopłytkowa,B2-
+skaza białkowa,B2-
+stan przedrzucawkowy,B2-
+stan przedzawałowy,B2-
+stenoza kanału kręgowego,B2-
+stłuszczenie wątroby,B2-
+stwardnienie guzowate,B2-
+stwardnienie zanikowe boczne,B2-
+syndrom hawański,B2-
+syndrom otella,B2-
+syndrom poorgazmowy,B2-
+szpiczak mnogi,B2-
+świąd odbytu,B2-
+świąd skóry,B2-
+techniczna szyja,B2-
+szyja smartfonowa,B2-
+tetralogia fallota,B2-
+tętniak aorty,B2-
+torbiel bakera,B2-
+torbiel galaretowata,B2-
+torbiel gruczołu przedsionkowego większego,B2-
+torbiel nerki,B2-
+torbiel pajęczynówki,B2-
+torbiel pilonidalna,B2-
+torbiel skórzasta,B2-
+torbielowatość nerek,B2-
+trądzik martwiczy,B2-
+trądzik bliznowcowy,B2-
+trądzik kosmetyczny,B2-
+trądzik młodzieńczy,B2-
+trądzik niemowlęcy,B2-
+trądzik odwrócony,B2-
+trądzik pospolity,B2-
+trądzik ropowiczy,B2-
+trądzik różowaty,B2-
+trądzik skupiony,B2-
+trądzik zaskórnikowy,B2-
+triada becka,B2-
+uchyłki jelita grubego,B2-
+uczulenie na słońce,B2-
+udar mózgu,B2-
+udar słoneczny,B2-
+udar cieplny,B2-
+wgłobienie jelita,B2-
+wiotkość krtani,B2-
+wirusowe zapalenie gardła,B2-
+wirusowe zapalenie płuc,B2-
+wirusowe zapalenie spojówek,B2-
+wirusowe zapalenie wątroby,B2-
+wirusowe zapalenie wątroby typu a,B2-
+wirusowe zapalenie wątroby typu b,B2-
+wirusowe zapalenie wątroby typu c,B2-
+włókniak twardy,B2-
+wodniak jądra,B2-
+wrodzona łamliwość kości,B2-
+wrodzona przepuklina przeponowa,B2-
+wrodzony przerost nadnerczy,B2-
+wrzodziejące zapalenie jelita grubego,B2-
+wrzód weneryczny,B2-
+wstrząs anafilaktyczny,B2-
+wstrząs hipowolemiczny,B2-
+wstrząs septyczny,B2-
+wszawica łonowa,B2-
+wszawica odzieżowa,B2-
+wścieklizna u ludzi,B2-
+wypadanie macicy,B2-
+zapalenie cewki moczowej,B2-
+zapalenie dróg żółciowych,B2-
+zapalenie jelit,B2-
+zapalenie kaletki maziowej,B2-
+zapalenie kącików ust,B2-
+zapalenie krtani,B2-
+zapalenie krtani podgłośniowe,B2-
+zapalenie małych naczyń,B2-
+zapalenie miazgi,B2-
+zapalenie miedniczek nerkowych,B2-
+zapalenie mieszków włosowych,B2-
+zapalenie mięśnia sercowego,B2-
+zapalenie migdałków podniebiennych,B2-
+zapalenie naczyń,B2-
+zapalenie naczyń chłonnych,B2-
+zapalenie nagłośni,B2-
+zapalenie nerwu wzrokowego,B2-
+zapalenie okostnej,B2-
+zapalenie opłucnej,B2-
+zapalenie opon mózgowo-rdzeniowych,B2-
+zapalenie osierdzia,B2-
+zapalenie oskrzeli,B2-
+zapalenie pęcherza,B2-
+zapalenie pęcherzyka żółciowego,B2-
+zapalenie płuc,B2-
+zapalenie pochewek ścięgnistych,B2-
+zapalenie prostaty,B2-
+zapalenie skórno-mięśniowe,B2-
+zapalenie spojówek,B2-
+zapalenie tchawicy,B2-
+zapalenie trzustki,B2-
+zapalenie twardówki,B2-
+zapalenie ucha,B2-
+zapalenie ucha zewnętrznego,B2-
+zapalenie wątroby,B2-
+zapalenie węzłów chłonnych,B2-
+zapalenie wsierdzia,B2-
+zapalenie zatok,B2-
+zapalenie zatok szczękowych,B2-
+zapalenie żołądka i dwunastnicy,B2-
+zatrucia amoniakiem,B2-
+zatrucia glikolem etylenowym,B2-
+zatrucie grzybami,B2-
+zatrucie pokarmowe,B2-
+zawał serca,B2-
+zespół alergii jamy ustnej,B2-
+zespół angelmana,B2-
+zespół antyfosfolipidowy,B2-
+zespół aspergera,B2-
+zespół bolesnego barku,B2-
+zespół brugadów,B2-
+zespół cieśni nadgarstka,B2-
+zespół cri du chat,B2-
+zespół downa,B2-
+zespół dźwigacza odbytu,B2-
+zespół edwardsa,B2-
+zespół eisenmengera,B2-
+zespół gardnera,B2-
+zespół gilberta,B2-
+zespół górnego otworu klatki piersiowej,B2-
+zespół hemolityczno-mocznicowy,B2-
+zespół hornera,B2-
+zespół jelita drażliwego,B2-
+zespół kallmanna,B2-
+zespół kawasaki,B2-
+zespół leigha,B2-
+zespół lęku uogólnionego,B2-
+zespół mallory-weissa,B2-
+zespół marfana,B2-
+zespół metaboliczny,B2-
+zespół nadnerczowo-płciowy,B2-
+zespół napięcia przedmiesiączkowego,B2-
+zespół nerczycowy,B2-
+zespół niepowściągliwych wymiotów wywołanych kannabinoidami,B2-
+zespół niespokojnych nóg,B2-
+zespół noonan,B2-
+zespół ogona końskiego,B2-
+zespół omenna,B2-
+zespół patau,B2-
+zespół policystycznych jajników,B2-
+zespół pozakrzepowy,B2-
+zespół pradera-williego,B2-
+zespół preekscytacji,B2-
+zespół przewlekłego zmęczenia,B2-
+zespół retta,B2-
+zespół reye'a,B2-
+zespół sjögrena,B2-
+zespół stevensa-johnsona,B2-
+zespół stresu pourazowego,B2-
+zespół suchego oka,B2-
+zespół tietza,B2-
+zespół tourette'a,B2-
+zespół turnera,B2-
+zespół williamsa,B2-
+zespół wolfa-hirschhorna,B2-
+zespół zatoki szyjnej,B2-
+zespół zollingera i ellisona,B2-
+zesztywniające zapalenie stawów kręgosłupa,B2-
+zgorzel gazowa,B2-
+ziarniniak pachwinowy,B2-
+ziarniniak wegenera,B2-
+zwężenie zastawki aortalnej,B2-
+zwężenie zastawki mitralnej,B2-
+żółta gorączka,B2-
+chlorek potasu,B3
+chlorek sodu,B3
+chlorek wapnia,B3
+kwas acetylosalicylowy,B3
+kwas salicylowy,B3
+kwas traneksamowy,B3
+kwas walproinowy,B3
+kwas zoledronowy,B3
+nadtlenek wodoru,B3
+węglan wapnia,B3
+węgiel aktywny,B3
+akt małżeństwa,Q1.2/S4
+akt urodzenia,Q1.2/S4
+akt notarialny,Q1.2
+akt zgonu,Q1.2/L1-
+bez zbędnej zwłoki,T1.1.3/N3.8+++
+bezpodstawne wzbogacenie,I1.1+/G2.1-
+czyn nieuczciwej konkurencji,G2.1-/S7.3
+choroba psychiczna,B2-/X1
+czynność prawna,G2.1
+dług spadkowy,I1.2
+dobrodziejstwo inwentarza,G2.1
+kapitał zakładowy,I1.1 A9+
+hipoteka umowna,I1.2/H1
+na rzecz,Z5
+narosły odsetek,I1.2
+nieruchomość służebna,A9+/H1
+nieruchomość obciążona,A9+/H1
+nieruchomość władnąca,A9+/H1
+oddać w podnajem,I2.2
+oddać w poddzierżawę,I2.2
+okoliczności łagodzące,G2.1
+opinia biegłego,G2.1
+osoba prawna,I2.1
+osoba fizyczna,S2mf
+osoba prowadząca działalność gospodarczą,I2.1/S2mf
+osobowość prawna,I2.1
+prawo cywilne,G2.1
+prawo karne,G2.1
+prawo zwyczajowe,G2.1
+prawo stanowione,G2.1
+prawo precedensowe,G2.1
+prawo materialne,G2.1
+prawo pracy,G2.1
+prawo procesowe,G2.1
+prawo upadłościowe,G2.1
+prawo rzeczowe,G2.1
+prawo osobiste,G2.1
+radca prawny,G2.1/S2mf
+rada nadzorcza,S5+/G1.1
+rada wierzycieli,S5+/I1.1
+rażące niedbalstwo,A1.3-
+rok obrotowy,I3.1-/T1.3
+służebność osobista,G2.1
+służebność gruntowa,G2.1
+służebność czynna,G2.1
+skarga pauliańska,G2.1
+służebność bierna,G2.1
+służebność drogowa,G2.1
+spółka akcyjna,I2.1
+spółka dominująca,I2.1
+spółka jawna,I2.1
+spółka kapitałowa,I2.1
+spółka komandytowa,I2.1
+spółka komandytowo-akcyjna,I2.1
+spółka osobowa,I2.1
+spółka partnerska,I2.1
+spółka z ograniczoną odpowiedzialnością,I2.1
+trybunał sprawiedliwości,G1.1
+urząd miejski,H1/G1.1
+urząd skarbowy,I1/G1.1
+komenda główna,G2.1/H1
+ubezwłasnowolnienie całkowite,S1.2.5-
+ubezwłasnowolnienie częściowe,S1.2.5-
+umowa śmieciowa,I3.1
+umowa na czas nieokreślony,I3.1
+urząd stanu cywilnego,H1/G1.1
+sąd okręgowy,G2.1
+sąd rejonowy,G2.1
+sąd administracyjny,G2.1
+sąd wojskowy,G2.1
+sąd najwyższy,G2.1
+powstanie warszawskie,G3/T1.3
+powstanie wielkopolskie,G3/T1.3
+powstanie styczniowe,G3/T1.3
+komuna,G3/T1.3
+powstanie listopadowe,
+w dobrej wierze,G2.1+
+w złej wierze,G2.1-
+władza rodzicielska,S7.1+/S4
+związek zawodowy,I3.1/S5+c
+zwrócić uwagę,Q2.1 X5.1+
+bank centralny,I1/G1.1
+deficyt budżetowy,I1.1/N5-
+europejski bank centralny,I1/G1.1
+finanse publiczne,I1/G1.1
+sprawy wewnętrzne,G1.1
+karta płatnicza,O2/I1
+brać udział,S1.1.3+
+wziąć udział,S1.1.3+
+karta kredytowa,O2/I1
+kurs walutowy,I1
+trzymać kciuki,X2.6/A5.1+
+narodowy bank polski,I1/G1.1
+piramida finansowa,I1/G2.2-
+produkt krajowy brutto,I1/G1.1
+stopa procentowa,I1
+wzrost gospodarczy,I1.1/G1.1
+Uniwersytet Warszawski,Z3/P1
+Uniwersytet Jagielloński w Krakowie,Z3/P1
+Politechnika Warszawska,Z3/P1
+Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie,Z3/P1
+Politechnika Gdańska,Z3/P1
+Uniwersytet im. Adama Mickiewicza w Poznaniu,Z3/P1
+Politechnika Wrocławska,Z3/P1
+Politechnika Poznańska,Z3/P1
+Politechnika Łódzka,Z3/P1
+Politechnika Śląska,Z3/P1
+Uniwersytet Gdański,Z3/P1
+Gdański Uniwersytet Medyczny,Z3/P1
+Uniwersytet Medyczny w Łodzi,Z3/P1
+Uniwersytet Medyczny w Białymstoku,Z3/P1
+Szkoła Główna Handlowa w Warszawie,Z3/P1
+Warszawski Uniwersytet Medyczny,Z3/P1
+Uniwersytet Wrocławski,Z3/P1
+Akademia Leona Koźmińskiego w Warszawie,Z3/P1
+Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu,Z3/P1
+Uniwersytet Mikołaja Kopernika w Toruniu,Z3/P1
+Uniwersytet Medyczny w Lublinie,Z3/P1
+Politechnika Krakowska im. Tadeusza Kościuszki,Z3/P1
+Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu,Z3/P1
+Uniwersytet Łódzki,Z3/P1
+Akademia WSB w Dąbrowie Górniczej,Z3/P1
+Pomorski Uniwersytet Medyczny w Szczecinie,Z3/P1
+Uniwersytet Przyrodniczy we Wrocławiu,Z3/P1
+Uniwersytet Śląski w Katowicach,Z3/P1
+Polsko-Japońska Akademia Technik Komputerowych w Warszawie,Z3/P1
+Uniwersytet SWPS,Z3/P1
+Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,Z3/P1
+Uniwersytet Opolski,Z3/P1
+Politechnika Lubelska,Z3/P1
+Śląski Uniwersytet Medyczny w Katowicach,Z3/P1
+Zachodniopomorski Uniwersytet Technologiczny w Szczecinie,Z3/P1
+Uniwersytet VIZJA,Z3/P1
+Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego w Warszawie,Z3/P1
+Uniwersytet Przyrodniczy w Poznaniu,Z3/P1
+Uczelnia Łazarskiego w Warszawie,Z3/P1
+Politechnika Opolska,Z3/P1
+Uniwersytet Ekonomiczny w Poznaniu,Z3/P1
+Społeczna Akademia Nauk w Łodzi,Z3/P1
+Uniwersytet Ekonomiczny we Wrocławiu,Z3/P1
+Uniwersytet Ekonomiczny w Krakowie,Z3/P1
+Uniwersytet Warmińsko-Mazurski w Olsztynie,Z3/P1
+Uniwersytet Marii Curie-Skłodowskiej w Lublinie,Z3/P1
+Akademia Finansów i Biznesu Vistula,Z3/P1
+ad hoc,X7-
+per se,A4.2+
+per capita,N5
+rada gminy,G1.2
+rada powiatu,G1.2
+urzędnik państwowy,G1.2/S2mf
+Nowy Rok,K1/T1.3
+Święto Trzech Króli,S9/T1.3
+Wielkanoc,S9/T1.3
+Poniedziałek Wielkanocny,S9/T1.3
+Święto Pracy,T1.3
+Święto Konstytucji 3 Maja,T1.3
+Zesłanie Ducha Świętego,S9/T1.3
+Zielone Świątki,S9/T1.3
+Boże Ciało,S9/T1.3
+Wniebowzięcie Najświętszej Maryi Panny,S9/T1.3
+Święto Wojska Polskiego,
+Wszystkich Świętych,S9/T1.3
+Święto Niepodległości,T1.3/S5-
+Boże Narodzenie,S9/T1.3
+Drugi dzień Bożego Narodzenia,S9/T1.3
+uczenie maszynowe  ,Y2
+sieć neuronowa,Y2
+chmura obliczeniowa,Y2
+blockchain,Y2
+system operacyjny,Y2
+wirtualna rzeczywistość  ,Y2
+komputer kwantowy  ,Y2
+big data  ,Y2
+głębokie uczenie  ,Y2
+deep learning,Y2
+black friday,Z3
+radny sejmiku,G1.1/S2mf
+radny miasta,G1.1/S2mf
+szanowna pani,Q2.2
+szanowny panie,Q2.2
+szanowni państwo,Q2.2
