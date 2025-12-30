@@ -13,6 +13,12 @@ reflexive_verbs = {}
 all_verb_lemmas = set()
 multiword_to_tag = {}
 multiword_entries = []  # will hold dicts with 'tokens', 'phrase', 'tag', plus lemma sequence
+# Mapping from lemma to a dictionary of POS->tag values.  Used to handle
+# homonymous lemmas (e.g. "koło" as a noun vs. preposition).  Keys are
+# lemma strings, values are dictionaries mapping lower‑cased POS labels
+# (like 'noun', 'preposition') to the tag string from the CSV.  Populated in
+# load_tag_data().
+lemma_pos_to_tag = {}
 # Trie nodes for surface and lemma MWEs
 class MWETreeNode:
     def __init__(self):
@@ -165,15 +171,27 @@ def get_custom_tag_for_lemma(lemma: str, pos: str, use_phonetic: bool):
                          approximate matching when no exact match exists
     :return: tuple (best_custom_tag, candidate_tags)
     """
-    raw_custom = lemma_to_tag.get(lemma, '')
-    # If nothing found and approximate matching is enabled, try to find a close lemma
+    # Normalize POS string to lowercase for matching
+    pos_lower = pos.lower() if pos else ''
+    raw_custom = ''
+    # Attempt to find a POS-specific tag for the lemma
+    if lemma in lemma_pos_to_tag and pos_lower:
+        raw_custom = lemma_pos_to_tag[lemma].get(pos_lower, '')
+    # Fallback to the general lemma mapping if no POS-specific tag was found
+    if not raw_custom:
+        raw_custom = lemma_to_tag.get(lemma, '')
+    # If still nothing and approximate matching is enabled, try to find a close lemma
     if not raw_custom and use_phonetic:
         closest = find_closest_lemma(lemma)
         if closest:
-            raw_custom = lemma_to_tag.get(closest, '')
+            if closest in lemma_pos_to_tag and pos_lower:
+                raw_custom = lemma_pos_to_tag[closest].get(pos_lower, '')
+            if not raw_custom:
+                raw_custom = lemma_to_tag.get(closest, '')
     # If still nothing, return Z99 as the best tag and an empty candidate list
     if not raw_custom:
         return 'Z99', []
+    # Finally choose the best candidate for this POS from within the raw tag string
     return choose_best_custom_tag(raw_custom, pos)
 
 # Mapping from tag prefix letters to high-level domain categories. This mapping is
@@ -296,7 +314,18 @@ def load_tag_data():
                 if 'word' in row and 'tag' in row:
                     lemma = row['word']
                     tag = row['tag']
+                    # Persist the last seen tag for this lemma in the general mapping
                     lemma_to_tag[lemma] = tag
+                    # Attempt to detect a POS/homonym column; accept several possible header names
+                    pos_val = ''
+                    for key_name in ('POS', 'pos', 'homonins', 'homonim', 'homonym'):
+                        if key_name in row and row[key_name]:
+                            pos_val = row[key_name].strip()
+                            break
+                    if pos_val:
+                        # Normalise POS to lowercase and record the POS-specific tag
+                        lemma_pos_to_tag.setdefault(lemma, {})[pos_val.lower()] = tag
+                    # Preserve existing behaviour for reflexive verbs and verb lemmas
                     if ' się' in lemma:
                         base_verb = lemma.replace(' się', '')
                         reflexive_verbs[base_verb] = lemma
@@ -933,6 +962,13 @@ if __name__ == '__main__':
     print("Access the application at: http://127.0.0.1:5000")
     print("=" * 50)
     app.run(debug=True, host='0.0.0.0')
+
+
+
+
+
+
+
 
 
 
